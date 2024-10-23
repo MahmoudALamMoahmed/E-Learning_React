@@ -1,0 +1,411 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "MahmoudALam@Admin.com",
+      "password": "Mahmoud123"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "JavaScript for Beginners",
+      "url": "enhanced_1.png",
+      "category": "FrontEnd",
+      "price": "2000",
+      "description": "Learn JavaScript basics for web development"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Python Programming",
+      "url": "enhanced_2.png",
+      "category": "FrontEnd",
+      "price": "1500",
+      "description": "Master advanced Python techniques for coding efficiency"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Web Development",
+      "url": "enhanced_3.png",
+      "category": "FrontEnd",
+      "price": 1100,
+      "description": "Become proficient in full stack web development"
+    },
+    {
+      "id": 4,
+      "title": "Data Structures in C++",
+      "url": "enhanced_4.png",
+      "category": "FrontEnd",
+      "price": 1500,
+      "description": "Understand data structures with C++ programming concepts"
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning with TensorFlow",
+      "url": "enhanced_5.png",
+      "category": "FrontEnd",
+      "price": 1300,
+      "description": "Learn machine learning using TensorFlow for AI"
+    },
+    {
+      "id": 6,
+      "title": "React Native Mobile Development",
+      "url": "enhanced_6.png",
+      "category": "FrontEnd",
+      "price": 1450,
+      "description": "Develop mobile applications using React Native framework"
+    },
+    {
+      "id": 7,
+      "title": "Node.js and Express.js",
+      "url": "enhanced_7.png",
+      "category": "FrontEnd",
+      "price": 1190,
+      "description": "Build server-side applications using Node.js and Express"
+    },
+    {
+      "id": 8,
+      "title": "Introduction to TypeScript",
+      "url": "enhanced_8.png",
+      "category": "FrontEnd",
+      "price": 990,
+      "description": "Learn TypeScript to enhance JavaScript development skills"
+    },
+    {
+      "id": 9,
+      "title": "Django for Web Development",
+      "url": "enhanced_9.png",
+      "category": "FrontEnd",
+      "price": 1180,
+      "description": "Create web applications using Django framework effectively"
+    },
+    {
+      "id": 10,
+      "title": "Kotlin for Android Development",
+      "url": "enhanced_10.png",
+      "category": "FrontEnd",
+      "price": 1350,
+      "description": "Develop Android apps using Kotlin programming language"
+    },
+    {
+      "id": 11,
+      "title": "Swift Programming for iOS",
+      "url": "enhanced_11.png",
+      "category": "backend",
+      "price": 1280,
+      "description": "Learn Swift programming for developing iOS applications"
+    },
+    {
+      "id": 12,
+      "title": "PHP and MySQL Web Development",
+      "url": "enhanced_12.png",
+      "category": "backend",
+      "price": 1420,
+      "description": "Develop dynamic websites using PHP and MySQL databases"
+    },
+    {
+      "id": 13,
+      "title": "Ruby on Rails for Beginners",
+      "url": "enhanced_13.png",
+      "category": "backend",
+      "price": 1130,
+      "description": "Start building web applications using Ruby on Rails"
+    },
+    {
+      "id": 14,
+      "title": "C# and .NET Core Development",
+      "url": "enhanced_14.png",
+      "category": "backend",
+      "price": 1390,
+      "description": "Master C# programming with .NET Core framework basics"
+    },
+    {
+      "id": 15,
+      "title": "Game Development with Unity",
+      "url": "enhanced_15.png",
+      "category": "backend",
+      "price": 1480,
+      "description": "Learn game development using Unity game engine fundamentals"
+    },
+    {
+      "id": 16,
+      "title": "AWS Cloud Practitioner",
+      "url": "enhanced_16.png",
+      "category": "backend",
+      "price": 1050,
+      "description": "Get certified as an AWS Cloud Practitioner easily"
+    },
+    {
+      "id": 17,
+      "title": "DevOps with Docker and Kubernetes",
+      "url": "enhanced_17.png",
+      "category": "backend",
+      "price": 1580,
+      "description": "Implement DevOps strategies using Docker and Kubernetes tools"
+    },
+    {
+      "id": 18,
+      "title": "Introduction to Cybersecurity",
+      "url": "enhanced_18.png",
+      "category": "backend",
+      "price": 1350,
+      "description": "Understand the basics of cybersecurity to protect systems"
+    },
+    {
+      "id": 19,
+      "title": "Blockchain Development with Solidity",
+      "url": "enhanced_19.png",
+      "category": "backend",
+      "price": 1400,
+      "description": "Learn Solidity to develop blockchain applications efficiently"
+    },
+    {
+      "id": 20,
+      "title": "Artificial Intelligence with Python",
+      "url": "enhanced_20.png",
+      "category": "backend",
+      "price": 1500,
+      "description": "Build AI solutions using Python programming and libraries"
+    },
+    {
+      "id": 21,
+      "title": "Sass and CSS Preprocessing",
+      "url": "enhanced_21.png",
+      "category": "developer",
+      "price": 920,
+      "description": "Enhance CSS coding with Sass preprocessing tools"
+    },
+    {
+      "id": 22,
+      "title": "HTML5 and CSS3 Fundamentals",
+      "url": "enhanced_22.png",
+      "category": "developer",
+      "price": 850,
+      "description": "Learn HTML5 and CSS3 for building web pages"
+    },
+    {
+      "id": 23,
+      "title": "Angular and TypeScript",
+      "url": "enhanced_23.png",
+      "category": "developer",
+      "price": 1340,
+      "description": "Develop web applications using Angular and TypeScript"
+    },
+    {
+      "id": 24,
+      "title": "Vue.js and Vuex",
+      "url": "enhanced_24.png",
+      "category": "developer",
+      "price": 1210,
+      "description": "Build modern web apps using Vue.js and Vuex"
+    },
+    {
+      "id": 25,
+      "title": "Java Programming for Beginners",
+      "url": "enhanced_25.png",
+      "category": "developer",
+      "price": 1220,
+      "description": "Learn Java programming fundamentals for software development"
+    },
+    {
+      "id": 26,
+      "title": "SQL Database Management",
+      "url": "enhanced_26.png",
+      "category": "developer",
+      "price": 1280,
+      "description": "Master SQL for effective database management systems"
+    },
+    {
+      "id": 27,
+      "title": "NoSQL with MongoDB",
+      "url": "enhanced_27.png",
+      "category": "developer",
+      "price": 1300,
+      "description": "Learn NoSQL database management using MongoDB technology"
+    },
+    {
+      "id": 28,
+      "title": "REST API Development",
+      "url": "enhanced_28.png",
+      "category": "developer",
+      "price": 1380,
+      "description": "Develop RESTful APIs using modern web development practices"
+    },
+    {
+      "id": 29,
+      "title": "GraphQL with React",
+      "url": "enhanced_29.png",
+      "category": "developer",
+      "price": 1370,
+      "description": "Integrate GraphQL with React for advanced data management"
+    },
+    {
+      "id": 30,
+      "title": "Azure Fundamentals",
+      "url": "enhanced_30.png",
+      "category": "Other",
+      "price": 1220,
+      "description": "Learn Microsoft Azure cloud platform fundamentals thoroughly"
+    },
+    {
+      "id": 31,
+      "title": "Spring Boot with Java",
+      "url": "enhanced_31.png",
+      "category": "Other",
+      "price": 1310,
+      "description": "Develop enterprise applications using Spring Boot framework"
+    },
+    {
+      "id": 32,
+      "title": "ASP.NET Core MVC",
+      "url": "enhanced_32.png",
+      "category": "Other",
+      "price": 1400,
+      "description": "Build web applications using ASP.NET Core MVC framework"
+    },
+    {
+      "id": 33,
+      "title": "Go Programming Essentials",
+      "url": "enhanced_33.png",
+      "category": "Other",
+      "price": 1110,
+      "description": "Learn Go programming essentials for backend development"
+    },
+    {
+      "id": 34,
+      "title": "Rust for Systems Programming",
+      "url": "enhanced_34.png",
+      "category": "Other",
+      "price": 1320,
+      "description": "Master Rust programming for building reliable systems software"
+    },
+    {
+      "id": 35,
+      "title": "Big Data with Hadoop",
+      "url": "enhanced_35.png",
+      "category": "Other",
+      "price": 1460,
+      "description": "Process big data efficiently using Hadoop ecosystem tools"
+    },
+    {
+      "id": 36,
+      "title": "AI with Deep Learning",
+      "url": "enhanced_36.png",
+      "category": "Other",
+      "price": 1490,
+      "description": "Implement AI solutions using deep learning technologies"
+    },
+    {
+      "id": 37,
+      "title": "Natural Language Processing",
+      "url": "enhanced_37.png",
+      "category": "Other",
+      "price": 1450,
+      "description": "Learn NLP techniques for processing human languages accurately"
+    },
+    {
+      "id": 38,
+      "title": "Software Testing with Selenium",
+      "url": "enhanced_38.png",
+      "category": "Other",
+      "price": 1200,
+      "description": "Automate software testing processes using Selenium tools"
+    },
+    {
+      "id": 39,
+      "title": "Microservices Architecture",
+      "url": "enhanced_39.png",
+      "category": "Other",
+      "price": 1430,
+      "description": "Design and implement microservices architecture for scalability"
+    },
+    {
+      "id": 40,
+      "title": "Functional Programming with Haskell",
+      "url": "enhanced_40.png",
+      "category": "Other",
+      "price": 1290,
+      "description": "Understand functional programming using Haskell language features"
+    },
+    {
+      "id": 41,
+      "title": "Introduction to Quantum Computing",
+      "url": "enhanced_41.png",
+      "category": "developer",
+      "price": 1500,
+      "description": "Explore quantum computing fundamentals and algorithms in depth"
+    },
+    {
+      "id": 42,
+      "title": "VR and AR Development",
+      "url": "enhanced_42.png",
+      "category": "developer",
+      "price": 1530,
+      "description": "Build immersive experiences using VR and AR technologies"
+    },
+    {
+      "id": 43,
+      "title": "API Security Best Practices",
+      "url": "enhanced_43.png",
+      "category": "developer",
+      "price": 1210,
+      "description": "Secure your APIs with best practices for developers"
+    },
+    {
+      "id": 44,
+      "title": "WebAssembly for Performance",
+      "url": "enhanced_44.png",
+      "category": "developer",
+      "price": 1330,
+      "description": "Boost web performance using WebAssembly techniques effectively"
+    },
+    {
+      "id": 45,
+      "title": "React.js Advanced Techniques",
+      "url": "enhanced_45.png",
+      "category": "developer",
+      "price": 1375,
+      "description": "Learn advanced techniques for developing with React.js library"
+    },
+    {
+      "id": 46,
+      "title": "Flutter for Cross-Platform Apps",
+      "url": "enhanced_46.png",
+      "category": "developer",
+      "price": 1400,
+      "description": "Develop cross-platform apps using Flutter and Dart efficiently"
+    },
+    {
+      "id": 47,
+      "title": "Introduction to Ethical Hacking",
+      "url": "enhanced_47.png",
+      "category": "developer",
+      "price": 1440,
+      "description": "Learn ethical hacking to secure digital infrastructures comprehensively"
+    },
+    {
+      "id": 48,
+      "title": "Programming with MATLAB",
+      "url": "enhanced_48.png",
+      "category": "developer",
+      "price": 1150,
+      "description": "Master programming skills using MATLAB for technical computing"
+    },
+    {
+      "id": 49,
+      "title": "Data Science with R",
+      "url": "enhanced_49.png",
+      "category": "developer",
+      "price": 1425,
+      "description": "Analyze data and build models using R programming"
+    },
+    {
+      "id": 50,
+      "title": "Introduction to Computer Vision",
+      "url": "enhanced_50.png",
+      "category": "Other",
+      "price": "2000",
+      "description": "Learn computer vision fundamentals for image processing tasks"
+    }
+  ]
+}
